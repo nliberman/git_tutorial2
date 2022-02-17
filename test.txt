@@ -12,3 +12,4 @@ This is commit 10b
 This is commit 11b
 This is commit 10a
 This is commit 11a
+This new feature 1
