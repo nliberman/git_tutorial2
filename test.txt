@@ -18,3 +18,5 @@ This is stash 2
 This is partial commit 1
 This is partial commit 2
 This is new commit
+This is a conflict 1
+This is a conflict 2
