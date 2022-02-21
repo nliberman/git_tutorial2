@@ -16,3 +16,4 @@ This new feature 1
 This is stash 1
 This is stash 2
 This is partial commit 1
+This is partial commit 2
