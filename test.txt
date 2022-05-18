@@ -20,3 +20,5 @@ This is partial commit 2
 This is new commit
 This is a conflict 1
 This is a conflict 2
+This is commit after rebase
+Create new conflict
